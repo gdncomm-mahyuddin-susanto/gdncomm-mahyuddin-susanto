@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dncomm-mahyuddin-susanto&theme=default&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=dncomm-mahyuddin-susanto&theme=default&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dncomm-mahyuddin-susanto&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 <!--
 **gdncomm-mahyuddin-susanto/gdncomm-mahyuddin-susanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
