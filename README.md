@@ -1,50 +1,79 @@
-<div align="center">
+# Mahyuddin Susanto
+### Infrastructure & Network Engineering Leader
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Mahyu%20%C2%B7%20udienz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="header" />
-
-<a href="https://github.com/udienz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=2C9AB7&center=true&vCenter=true&width=600&lines=Linux+%26+Network+Engineer+since+the+2000s;Debian+%2F+Ubuntu+%2F+Infrastructure+as+Code;Now+writing+about+history+%26+football" alt="Typing SVG" />
-</a>
-
-[![Blog](https://img.shields.io/badge/Blog-udienz.web.id-2c5364?style=for-the-badge&logo=rss&logoColor=white)](https://www.udienz.web.id/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-udienz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udienz)
-[![X](https://img.shields.io/badge/X-@udienz-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/udienz)
-[![Instagram](https://img.shields.io/badge/Instagram-udienz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/udienz)
-[![Work account](https://img.shields.io/badge/Work-gdncomm--mahyuddin--susanto-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gdncomm-mahyuddin-susanto)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/udienz/)
+[![Website](https://img.shields.io/badge/Website-udienz.web.id-informational?logo=google-chrome)](https://www.udienz.web.id/)
+[![GitHub](https://img.shields.io/badge/GitHub-udienz-black?logo=github)](https://github.com/udienz)
 
 ---
 
-### 👋 Hi, I'm Mahyu
+## About Me
 
-A sysadmin and network engineer from Indonesia 🇮🇩 with 15+ years in Linux and networking.
+I am an Infrastructure and Network Engineering Leader with **15+ years of experience** designing, building, and operating large-scale, mission-critical infrastructure.
 
-- 🐧 Grew up in the Indonesian open source community: [Ubuntu Indonesia](https://github.com/ubuntu-id), repository mirrors, Debian packaging, and [Buaya](https://github.com/udienz/buaya)
-- ⚙️ Went from Puppet and shell scripts to Ansible, Docker, and Terraform
-- 🌐 At home with DNS, routing, mail servers, and the plumbing that keeps the internet running
-- ✍️ These days I write on my [blog](https://www.udienz.web.id/) (in Indonesian) about history, football, and life
-- 📖 Rebuilding [quranweb](https://github.com/udienz/quranweb) with Next.js
-- 💼 This is my personal account [@udienz](https://github.com/udienz)
+Currently serving as a **Senior Principal Network Engineer at Blibli**, I focus on network architecture, infrastructure reliability, operational governance, and engineering strategy.
 
----
+My experience bridges deep technical expertise with engineering leadership — translating complex infrastructure challenges into reliable, scalable, and sustainable solutions.
 
-### 🧰 Tools & Stack
+I enjoy solving complex infrastructure problems, improving operational excellence, and building engineering capabilities that support business growth.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,vim,git,github,githubactions&perline=8" alt="core" /><br/>
-  <img src="https://skillicons.dev/icons?i=ansible,terraform,docker,nginx,cloudflare,aws,py,django,nextjs,php&perline=10" alt="stack" />
+## Professional Experience
+
+### Blibli
+**Senior Principal Network Engineer**
+
+- Drive network architecture and infrastructure engineering strategy.
+- Design and evolve highly available network infrastructure.
+- Establish network governance, operational standards, and engineering practices.
+- Support infrastructure reliability and business-critical services.
+
+### WOWNET
+**Network Operation Lead**
+
+- Led network operations and engineering activities.
+- Coordinated operational execution and network reliability initiatives.
+
+### Wowrack
+**Senior Network Engineer**
+*Previously: Senior Linux Administrator / System Engineer*
+
+- Designed, implemented, and maintained network infrastructure.
+- Managed Linux-based systems and production infrastructure.
+- Supported complex infrastructure operations and troubleshooting.
+
+## Technical Expertise
+
+| Area | Expertise |
+|---|---|
+| Network Architecture | BGP, OSPF, MPLS, IPv6, Enterprise Routing, VPN |
+| Network Reliability | High Availability, Resilience, DDoS Mitigation, Incident Management |
+| Infrastructure | Linux, Data Center Networking, Hybrid Infrastructure |
+| Engineering Leadership | Technical Strategy, Network Governance, Engineering Standards, Mentoring |
+| Automation & Operations | Ansible, Terraform, Python, Bash, CI/CD |
+
+## Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,python,ansible,terraform,docker,nginx,git,github,githubactions" alt="Technologies and tools" />
 </p>
 
+## Open Source Contributions
+
+Open source has been an important part of my technical journey.
+
+- **Ubuntu Developer (MOTU)** since 2008.
+- Previously involved in Debian package maintenance.
+- Long-time contributor and participant in Linux and open-source communities.
+- Passionate about open-source technologies and collaborative engineering.
+
+## Connect
+
+I'm always interested in connecting with fellow engineers, infrastructure leaders, and people working on challenging technology problems.
+
+- **LinkedIn:** [linkedin.com/in/udienz](https://www.linkedin.com/in/udienz/)
+- **Personal Website:** [www.udienz.web.id](https://www.udienz.web.id/)
+- **Personal GitHub:** [github.com/udienz](https://github.com/udienz)
+
 ---
 
-
-### 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/udienz/udienz/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/udienz/udienz/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/udienz/udienz/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" width="100%" />
+*Building reliable infrastructure through thoughtful architecture, engineering excellence, and technical leadership.*
